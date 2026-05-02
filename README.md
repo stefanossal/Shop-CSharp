@@ -75,7 +75,7 @@ The elevator allows navigation between floors/areas:
 ## 🛠️ Technologies Used
 
 - C#  
-- Windows Forms / WPF (specify what you used)  
+- Windows Forms
 - .NET Framework  
 
 ---
@@ -86,6 +86,6 @@ This project was created to simulate a real-world interactive environment with m
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 (Add screenshots of each section here)
