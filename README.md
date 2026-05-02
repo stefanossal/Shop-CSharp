@@ -19,7 +19,7 @@ From the home screen, the user can navigate to:
 - 📄 Photocopy / Scanner / Printer Area  
 - ☕ Cafeteria  
 - 📚 Library  
-- 🛗 Elevator System  
+- 🏢 Elevator System  
 - 🛒 Electronic Ordering System  
 
 ---
@@ -62,7 +62,7 @@ In this section, the user can:
 
 ---
 
-## 🛗 Elevator System
+## 🏢 Elevator System
 
 The elevator allows navigation between floors/areas:
 
