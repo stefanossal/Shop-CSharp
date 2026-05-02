@@ -88,4 +88,4 @@ This project was created to simulate a real-world interactive environment with m
 
 ## 📸 Screenshot
 
-(Add screenshots of each section here)
+<img width="948" height="569" alt="HomePage" src="https://github.com/user-attachments/assets/ce6d358a-6426-46ca-a787-04fc5cc282b0" />
