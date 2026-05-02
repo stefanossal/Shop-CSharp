@@ -1,0 +1,34 @@
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία\ΤελικήΕργασία\bin\Debug\ΤελικήΕργασία.exe.config
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία\ΤελικήΕργασία\bin\Debug\ΤελικήΕργασία.exe
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία\ΤελικήΕργασία\bin\Debug\ΤελικήΕργασία.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.csprojAssemblyReference.cache
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.Form1.resources
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.Properties.Resources.resources
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.csproj.GenerateResource.cache
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.csproj.CoreCompileInputs.cache
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.exe
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\bin\Debug\ΤελικήΕργασία.exe.config
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\bin\Debug\ΤελικήΕργασία.exe
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\bin\Debug\ΤελικήΕργασία.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.csprojAssemblyReference.cache
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.Form1.resources
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.Properties.Resources.resources
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.csproj.GenerateResource.cache
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.csproj.CoreCompileInputs.cache
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.exe
+C:\Users\ΣΤΕΦΑΝΟΣ\Documents\Visual Studio 2017\Projects\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\bin\Debug\ΤελικήΕργασία.exe.config
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\bin\Debug\ΤελικήΕργασία.exe
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\bin\Debug\ΤελικήΕργασία.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.csprojAssemblyReference.cache
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.Form1.resources
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.Properties.Resources.resources
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.csproj.GenerateResource.cache
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.csproj.CoreCompileInputs.cache
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.exe
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.pdb
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.Φωτοτύπηση.resources
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.Σάρωση.resources
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.Εκτύπωση.resources
+C:\Users\ΣΤΕΦΑΝΟΣ\Desktop\ΤελικήΕργασία-ΑΑΥ\ΤελικήΕργασία\obj\Debug\ΤελικήΕργασία.Μενού.resources
