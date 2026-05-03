@@ -1,4 +1,4 @@
-# Shop-CSharp 🏬
+# Shop - C# 🏬
 
 A Windows desktop application simulating a multi-area shop environment where users can navigate between different functional spaces such as photocopy center, cafeteria, library, and online ordering system.
 
